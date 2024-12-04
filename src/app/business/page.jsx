@@ -100,13 +100,13 @@ export default function BusinessLandingPage() {
   function onSubmit(values) {
     console.log(values);
   }
-  <Image
-    src="/ksvn.png"
-    alt="WebNova AI Logo"
-    width={160}
-    height={150}
-    className="bg-white rounded-lg p-2"
-  />;
+  // <Image
+  //   src="/ksvn.png"
+  //   alt="WebNova AI Logo"
+  //   width={160}
+  //   height={150}
+  //   className="bg-white rounded-lg p-2"
+  // />;
   return (
     <div className="container mx-auto px-4 py-8 space-y-12">
       
